@@ -18,4 +18,4 @@
 
 ## UI
 
-Bootstrap -> Formatting
+- Bootstrap -> Formatting
